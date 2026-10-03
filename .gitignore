@@ -1,9 +1,10 @@
 # hide all
 /*
 
-# gitignore and license files
+# gitignore, license and readme files
 !.gitignore
 !LICENSE
+!README.md
 
 # only show src and gradle stuff
 !src/
