@@ -1,0 +1,11 @@
+# hide all
+/*
+
+# gitignore and license files
+!.gitignore
+!LICENSE
+
+# only show src and gradle stuff
+!src/
+!*gradle*
+.gradle

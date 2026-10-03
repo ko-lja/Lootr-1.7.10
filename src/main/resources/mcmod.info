@@ -1,0 +1,14 @@
+[{
+  "modid": "${modId}",
+  "name": "${modName}",
+  "description": "Per-player loot for world-generated chests. 1.7.10 port of Lootr by noobanidus and embeddedt.",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kolja"],
+  "credits": "Original Lootr by noobanidus and embeddedt (MIT)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
